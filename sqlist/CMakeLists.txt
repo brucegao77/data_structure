@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
-project(data_structure C)
+project(sqlist C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_subdirectory(sqlist)
+add_executable(sqlist main.c sqlist.c)
