@@ -1,8 +1,6 @@
 /* function: Implemention of Linear List
  * author:   Bruce
  * date:     2020-06-17 */
-#include <stdio.h>
-#include <stdlib.h>
 #define LIST_INIT_SIZE 100
 #define LISTINCREMENT  10
 #define TRUE           1
