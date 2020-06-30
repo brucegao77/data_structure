@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_subdirectory(sqlist)
 add_subdirectory(link_list)
+add_subdirectory(static_link_list)
